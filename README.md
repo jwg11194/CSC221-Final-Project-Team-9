@@ -2,8 +2,8 @@
 
 __Owner:__ Jeff Gillette (jgillette@waketech.edu)
 
-__Project Description:__ Web Scraping project to gather data from __ and graph/plot the data in a meaningful, visual way.
+__Project Description:__ Web Scraping project to gather data from CDC and graph/plot the data in a meaningful, visual way.
 
-__Webscrapted URL:__
+__Webscrapted URL:__ https://data.cdc.gov/National-Center-for-Health-Statistics/AH-Provisional-Cancer-Death-Counts-by-Month-and-Ye/2na8-fe6s/about_data
 
-__Collaborator:__ Jid Al-Baytam (jaalbaytam@waketech.edu)
+__Collaborator:__ Jad Sahmad (jaalbaytam@waketech.edu)
